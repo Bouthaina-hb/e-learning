@@ -1,0 +1,21 @@
+# pip install -r requirements.txt
+
+streamlit
+python-dotenv
+
+PyMuPDF
+pdfplumber
+pypdf
+pdf2image
+
+paddleocr
+paddlepaddle
+opencv-python
+
+langchain
+openai
+tiktoken
+
+Pillow
+
+azure-ai-inference
